@@ -38,4 +38,4 @@ This project performs Exploratory Data Analysis (EDA) on the Sample Superstore d
 The analysis highlights important patterns in retail sales and profitability. These insights can help identify strong-performing product categories, profitable regions, and opportunities to improve discount strategies.
 
 ## Project Files
-- `Retail_Sales_EDA.ipynb` – Google Colab notebook containing the complete analysis and visualizations.
+- [Retail_Sales_EDA.ipynb](Retail_Sales_EDA.ipynb) – Google Colab notebook containing the complete analysis and visualizations.
